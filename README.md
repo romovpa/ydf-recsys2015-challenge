@@ -18,5 +18,5 @@ Solution of [RecSys Challenge 2015](http://2015.recsyschallenge.com/index.html):
 
 1. [Input CSV files: train/test sessions from competition website](http://2015.recsyschallenge.com/challenge.html)
 3. [Final submission file](data/submission)
-2. [Predictions from purchase and item classifiers]()
+2. [Predictions from purchase and item classifiers](data/predictions)
 
