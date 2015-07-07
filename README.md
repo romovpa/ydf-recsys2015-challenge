@@ -9,10 +9,10 @@ Solution of [RecSys Challenge 2015](http://2015.recsyschallenge.com/index.html):
 
 ### Notebooks
 
-1. [Aggregate Sessions]()
-2. [Explore Dataset]()
-3. [Extract Fetures]()
-4. [Make Final Predictions]()
+1. [Aggregate Sessions](http://nbviewer.ipython.org/github/romovpa/ydf-recsys2015-challenge/blob/master/notebooks/Yoochoose_AggregateSessions.ipynb)
+2. [Explore Dataset](http://nbviewer.ipython.org/github/romovpa/ydf-recsys2015-challenge/blob/master/notebooks/Yoochoose_ExploreDataset.ipynb)
+3. [Extract Fetures](http://nbviewer.ipython.org/github/romovpa/ydf-recsys2015-challenge/blob/master/notebooks/Yoochoose_ExtractFeatures.ipynb)
+4. [Make Final Predictions](http://nbviewer.ipython.org/github/romovpa/ydf-recsys2015-challenge/blob/master/notebooks/Yoochoose_MakeFinalPredictions.ipynb)
 
 ### Data
 
